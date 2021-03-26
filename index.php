@@ -19,7 +19,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav">
-            <a class="nav-link active" href="projek_uts.html">Beranda <span class="sr-only">(current)</span></a>
+            <a class="nav-link active" href="index.php">Beranda <span class="sr-only">(current)</span></a>
             <a class="nav-link" href="page2.html">Pencegahan COVID-19</a>
             <a class="nav-link" href="page3.html">Data dan Statistik</a>
             <a class="nav-link" href="page4.html">Kuis</a>
